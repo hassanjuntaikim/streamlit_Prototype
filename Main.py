@@ -2,12 +2,12 @@ import streamlit as st
 import pandas as pd
 
 st.set_page_config(
-	page_title='Streamlit 프로토타입 만들기',
+	page_title='김준타이의 Streamlit 프로토타입 만들기',
 	page_icon='🎈',
 	layout='wide'
 )
 
-st.text('🎈Streamlit 프로토타입 만들기')
+st.text('김준타이 🎈Streamlit 프로토타입 만들기')
 st.title('🎈💕💕💕💕Title을 입력하세요.')
 st.header('Header(머리글)을 입력하세요.')
 st.subheader('Subheader(세부 머리글)을 입력하세요.')
